@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+#custom-footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
